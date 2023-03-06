@@ -12,6 +12,7 @@ import java.nio.file.attribute.BasicFileAttributes;
 
 public class MostrarDirectoris implements FileVisitor<Path> {
 
+    /* Overriding FileVisitor methods */
     @Override
     public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) throws IOException {
         File f=new File(dir.toString());
@@ -36,4 +37,5 @@ public class MostrarDirectoris implements FileVisitor<Path> {
     public FileVisitResult postVisitDirectory(Path dir, IOException exc) throws IOException {
         return FileVisitResult.CONTINUE;
     }
+
 }

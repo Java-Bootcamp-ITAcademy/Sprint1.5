@@ -11,10 +11,11 @@ public class DirectorisAFitxer implements FileVisitor<Path> {
 
     private String directoriOrigen;
     private  String arxiuDeDesti;
+    private PrintWriter printWriter;
 
     public DirectorisAFitxer(String directoriOrigen, String arxiuDeDesti) {
-        setDirectoriOrigen(directoriOrigen);
-        setArxiuDeDesti(arxiuDeDesti);
+        this.directoriOrigen=directoriOrigen;
+        this.arxiuDeDesti=arxiuDeDesti;
     }
 
     public String getDirectoriOrigen() {
@@ -50,7 +51,7 @@ public class DirectorisAFitxer implements FileVisitor<Path> {
         try {
 
             PrintWriter writer = new PrintWriter(new OutputStreamWriter(new FileOutputStream(arxiuDeDesti, true)));  //Declaring printWriter and appending lines to the file.
-            writer.append("  F: "+file.getFileName()+" ha estat modificat per últim cop el "+attrs.lastModifiedTime()+"\n");
+            writer.append("  |__F: "+file.getFileName()+" ha estat modificat per últim cop el "+attrs.lastModifiedTime()+"\n");
             writer.close();
             return FileVisitResult.CONTINUE;
         } catch (FileNotFoundException e) {

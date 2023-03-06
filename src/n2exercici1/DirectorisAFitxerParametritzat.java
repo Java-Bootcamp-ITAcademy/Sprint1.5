@@ -11,10 +11,13 @@ import java.util.Properties;
 
 public class DirectorisAFitxerParametritzat implements FileVisitor<Path> {
     private static Properties properties;
-    public static void main(String[] args) throws IOException {
-        properties=definirProperties(args[0]);  //Setting properties from file
-        DirectorisAFitxerParametritzat directorisAFitxerParametritzat=new DirectorisAFitxerParametritzat();  //Instantiating class
-        Files.walkFileTree(Paths.get(properties.getProperty("directoriALlegir")),directorisAFitxerParametritzat);  //Executing File visitor
+
+    public static Properties getProperties() {
+        return properties;
+    }
+
+    public static void setProperties(Properties properties) {
+        DirectorisAFitxerParametritzat.properties = properties;
     }
 
     @Override
@@ -33,7 +36,7 @@ public class DirectorisAFitxerParametritzat implements FileVisitor<Path> {
     public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
         try {
             PrintWriter writer = new PrintWriter(new OutputStreamWriter(new FileOutputStream(properties.getProperty("arxiuAEscriure"), true)));  //Declaring printWriter and appending lines to the file.
-            writer.append("  F: " + file + "\n");
+            writer.append("  |__F: " + file + "\n");
             writer.close();
             return FileVisitResult.CONTINUE;
         } catch (FileNotFoundException e) {

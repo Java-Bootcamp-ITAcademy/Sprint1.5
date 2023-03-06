@@ -11,9 +11,9 @@ public class ClasseSerialitzable implements Serializable {  //Making class seria
     private transient String DNI;  //Excluding DNI from serialization
 
     public ClasseSerialitzable(String nom, int edat, String DNI) {  //Constructor
-        setNom(nom);
-        setEdat(edat);
-        setDNI(DNI);
+        this.nom=nom;
+        this.edat=edat;
+        this.DNI=DNI;
     }
 
     public String getNom() {
@@ -62,5 +62,15 @@ public class ClasseSerialitzable implements Serializable {  //Making class seria
             throw new RuntimeException(e);
         }
         return classeSerialitzable;
+    }
+
+    public static File creatingFile(String path) {
+        File f=new File(path);  //fora.ser
+        try {
+            f.createNewFile();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+        return f;
     }
 }
