@@ -20,12 +20,13 @@ public class Encriptacio {
     private File countriesDecrypted=new File("countriesDecrypted.txt");
 
 
-    public void init() throws NoSuchAlgorithmException {
+    public void init() throws NoSuchAlgorithmException {  //Generating key
         KeyGenerator keyGenerator=KeyGenerator.getInstance("AES");
         keyGenerator.init(128);
         key = keyGenerator.generateKey();
     }
 
+    /* Encrypting */
     public void encrypt(File inputFile, File outputFile) throws IOException, NoSuchPaddingException, NoSuchAlgorithmException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException {
         FileInputStream fileInputStream=new FileInputStream(inputFile);
         byte[] inputBytes=new byte[(int) inputFile.length()];
@@ -40,6 +41,7 @@ public class Encriptacio {
         fileInputStream.close();
     }
 
+    /* Decrypting */
     public void deCrypt(File inputFile, File outputFile) throws IOException, NoSuchPaddingException, NoSuchAlgorithmException, IllegalBlockSizeException, BadPaddingException, InvalidKeyException, InvalidAlgorithmParameterException {
         FileInputStream fileInputStream=new FileInputStream(inputFile);
         byte[] inputBytes=new byte[(int) inputFile.length()];
