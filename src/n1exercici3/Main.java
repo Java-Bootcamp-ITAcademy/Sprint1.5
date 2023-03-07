@@ -10,8 +10,10 @@ public class Main {
     public static void main(String[] args) throws IOException {
 
         DirectorisAFitxer directorisAFitxer=new DirectorisAFitxer(args[0],args[1]);
+        directorisAFitxer.initPrintWriter();  //PrintWriter initializes
         Writer netejador=new PrintWriter(directorisAFitxer.getArxiuDeDesti());  //Instantiating file cleaner
         netejador.write("");  //Cleaning file
         Files.walkFileTree(Paths.get(directorisAFitxer.getDirectoriOrigen()),directorisAFitxer);  //Executing File visitor
+        directorisAFitxer.closePrintWriter();  //Closing resources
     }
 }

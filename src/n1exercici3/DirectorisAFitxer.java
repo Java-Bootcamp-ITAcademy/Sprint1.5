@@ -36,27 +36,14 @@ public class DirectorisAFitxer implements FileVisitor<Path> {
 
     @Override
     public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) throws IOException {
-        try {
-            PrintWriter writer = new PrintWriter(new OutputStreamWriter(new FileOutputStream(arxiuDeDesti, true)));  //Declaring printWriter and appending lines to the file.
-            writer.append("D: "+new File(dir.toUri()).getName()+"\n");
-            writer.close();
-            return FileVisitResult.CONTINUE;
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
-        }
+        printWriter.append("D: "+new File(dir.toUri()).getName()+"\n");
+        return FileVisitResult.CONTINUE;
     }
 
     @Override
     public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
-        try {
-
-            PrintWriter writer = new PrintWriter(new OutputStreamWriter(new FileOutputStream(arxiuDeDesti, true)));  //Declaring printWriter and appending lines to the file.
-            writer.append("  |__F: "+file.getFileName()+" ha estat modificat per últim cop el "+attrs.lastModifiedTime()+"\n");
-            writer.close();
-            return FileVisitResult.CONTINUE;
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
-        }
+        printWriter.append("  |__F: "+file.getFileName()+" ha estat modificat per últim cop el "+attrs.lastModifiedTime()+"\n");
+        return FileVisitResult.CONTINUE;
 
     }
 
@@ -71,5 +58,13 @@ public class DirectorisAFitxer implements FileVisitor<Path> {
     @Override
     public FileVisitResult postVisitDirectory(Path dir, IOException exc) throws IOException {
         return FileVisitResult.CONTINUE;
+    }
+
+    public void initPrintWriter() throws FileNotFoundException {
+        this.printWriter = new PrintWriter(new OutputStreamWriter(new FileOutputStream(arxiuDeDesti, true)));  //Declaring printWriter and appending lines to the file.
+
+    }
+    public void closePrintWriter() {
+        this.printWriter.close();
     }
 }

@@ -10,6 +10,8 @@ public class Main {
     public static void main(String[] args) throws IOException {
         DirectorisAFitxerParametritzat.setProperties(DirectorisAFitxerParametritzat.definirProperties(args[0]));  //Setting properties from file
         DirectorisAFitxerParametritzat directorisAFitxerParametritzat=new DirectorisAFitxerParametritzat();  //Instantiating class
+        directorisAFitxerParametritzat.initPrintWriter();
         Files.walkFileTree(Paths.get(DirectorisAFitxerParametritzat.getProperties().getProperty("directoriALlegir")),directorisAFitxerParametritzat);  //Executing File visitor
+        directorisAFitxerParametritzat.closePrintWriter();
     }
 }

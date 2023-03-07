@@ -1,80 +1,255 @@
-��d{��I���T��\eclipse-workspace\Sprint 1.5
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\.idea
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\.idea\.gitignore
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\.idea\encodings.xml
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\.idea\misc.xml
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\.idea\modules.xml
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\.idea\uiDesigner.xml
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\.idea\workspace.xml
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\countries.txt
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\countriesDecrypted.txt
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\countriesEncrypted.txt
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\directoris.txt
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\directorisDecrypted.txt
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\directorisEncrypted.txt
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici1
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici1\Alfabetic.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici1\Main.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici1\readme.txt
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici2
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici2\Main.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici2\MostrarDirectoris.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici2\readme.txt
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici3
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici3\DirectorisAFitxer.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici3\Main.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici3\readme.txt
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici4
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici4\ImprimirArxiuPantalla.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici4\Main.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici4\readme.txt
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici5
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici5\ClasseSerialitzable.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici5\Main.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n1exercici5\readme.txt
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n2exercici1
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n2exercici1\config.properties
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n2exercici1\DirectorisAFitxerParametritzat.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n2exercici1\readme.txt
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n3exercici1
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n3exercici1\Encriptacio.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n3exercici1\Main.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\n3exercici1\readme.txt
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\out\production\Sprint 1.5\serialitzat.ser
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\serialitzat.ser
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\Sprint 1.5.iml
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici1
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici1\Alfabetic.java
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici1\Main.java
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici1\readme.txt
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici2
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici2\Main.java
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici2\MostrarDirectoris.java
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici2\readme.txt
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici3
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici3\DirectorisAFitxer.java
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici3\Main.java
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici3\readme.txt
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici4
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici4\ImprimirArxiuPantalla.java
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici4\Main.java
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici4\readme.txt
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici5
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici5\ClasseSerialitzable.java
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici5\Main.java
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n1exercici5\readme.txt
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n2exercici1
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n2exercici1\config.properties
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n2exercici1\DirectorisAFitxerParametritzat.java
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n2exercici1\readme.txt
-D: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n3exercici1
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n3exercici1\Encriptacio.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n3exercici1\Encriptacio.java
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n3exercici1\Main.class
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n3exercici1\Main.java
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\n3exercici1\readme.txt
-  F: C:\Users\Toni\eclipse-workspace\Sprint 1.5\src\serialitzat.ser
+|����}w}!W�C .git
+  |__F: COMMIT_EDITMSG ha estat modificat per últim cop el 2023-03-06T08:10:34.461933Z
+  |__F: config ha estat modificat per últim cop el 2023-03-06T08:11:50.093544Z
+  |__F: description ha estat modificat per últim cop el 2023-03-06T08:09:52.622184Z
+  |__F: HEAD ha estat modificat per últim cop el 2023-03-06T08:11:03.110702Z
+D: hooks
+  |__F: applypatch-msg.sample ha estat modificat per últim cop el 2023-03-06T08:09:52.622184Z
+  |__F: commit-msg.sample ha estat modificat per últim cop el 2023-03-06T08:09:52.637768Z
+  |__F: fsmonitor-watchman.sample ha estat modificat per últim cop el 2023-03-06T08:09:52.637768Z
+  |__F: post-update.sample ha estat modificat per últim cop el 2023-03-06T08:09:52.637768Z
+  |__F: pre-applypatch.sample ha estat modificat per últim cop el 2023-03-06T08:09:52.637768Z
+  |__F: pre-commit.sample ha estat modificat per últim cop el 2023-03-06T08:09:52.637768Z
+  |__F: pre-merge-commit.sample ha estat modificat per últim cop el 2023-03-06T08:09:52.637768Z
+  |__F: pre-push.sample ha estat modificat per últim cop el 2023-03-06T08:09:52.653423Z
+  |__F: pre-rebase.sample ha estat modificat per últim cop el 2023-03-06T08:09:52.653423Z
+  |__F: pre-receive.sample ha estat modificat per últim cop el 2023-03-06T08:09:52.653423Z
+  |__F: prepare-commit-msg.sample ha estat modificat per últim cop el 2023-03-06T08:09:52.653423Z
+  |__F: push-to-checkout.sample ha estat modificat per últim cop el 2023-03-06T08:09:52.653423Z
+  |__F: update.sample ha estat modificat per últim cop el 2023-03-06T08:09:52.653423Z
+  |__F: index ha estat modificat per últim cop el 2023-03-06T12:10:13.509506Z
+D: info
+  |__F: exclude ha estat modificat per últim cop el 2023-03-06T08:09:52.669013Z
+D: logs
+  |__F: HEAD ha estat modificat per últim cop el 2023-03-06T08:11:03.110702Z
+D: refs
+D: heads
+  |__F: main ha estat modificat per últim cop el 2023-03-06T08:11:03.110702Z
+D: remotes
+D: origin
+  |__F: main ha estat modificat per últim cop el 2023-03-06T08:11:50.109168Z
+D: objects
+D: 0a
+  |__F: be0f197c2129184b3ab4c2a06922d34301ae61 ha estat modificat per últim cop el 2023-03-06T08:10:03.487214Z
+D: 0e
+  |__F: 23ffdbca450077a58c3fbface7423ea719e121 ha estat modificat per últim cop el 2023-03-06T08:10:03.502829Z
+D: 13
+  |__F: 566b81b018ad684f3a35fee301741b2734c8f4 ha estat modificat per últim cop el 2023-03-06T08:10:02.911002Z
+D: 19
+  |__F: 70d37c3de4a49ff7477ab91a3eac7750c3e855 ha estat modificat per últim cop el 2023-03-06T08:10:02.957061Z
+D: 1b
+  |__F: b2e61d0dc6dbd4e6f582d3465f8abce27044c3 ha estat modificat per últim cop el 2023-03-06T08:10:34.43069Z
+D: 1d
+  |__F: f131de25366411d5f937aa3e12c508388cbfe9 ha estat modificat per últim cop el 2023-03-06T08:10:03.05075Z
+D: 1e
+  |__F: 716806ba5cf097ff6adb721bcd424f43041a2e ha estat modificat per últim cop el 2023-03-06T08:10:03.143913Z
+D: 25
+  |__F: 01dd076e159987b0281c6f91544c303799ef86 ha estat modificat per últim cop el 2023-03-06T08:10:03.300161Z
+D: 2b
+  |__F: 63946d5b31084bbb7dda418ceb3d75eb686373 ha estat modificat per últim cop el 2023-03-06T08:10:02.972682Z
+D: 2c
+  |__F: bab08989b148dd35b435b7ec7c914425e43e2e ha estat modificat per últim cop el 2023-03-06T08:10:34.399449Z
+D: 30
+  |__F: 4d22520edee12121f0052c5720ea8b02c7ca3f ha estat modificat per últim cop el 2023-03-06T08:10:03.035285Z
+D: 32
+  |__F: 44e47d5ecbde6b504413032ecd798e814f86de ha estat modificat per últim cop el 2023-03-06T08:10:34.415063Z
+D: 35
+  |__F: 0a06e51edabcb0028901a1b664e70555733920 ha estat modificat per últim cop el 2023-03-06T08:10:34.087018Z
+D: 3c
+  |__F: 0cf9d9eb4ab64e7ef4deb32328e63b16f68432 ha estat modificat per últim cop el 2023-03-06T08:10:03.549698Z
+D: 3e
+  |__F: caf1b23a86ff281cf037ecf7373ec3cd25661c ha estat modificat per últim cop el 2023-03-06T08:10:03.534078Z
+D: 42
+  |__F: eea4c92b15fb9cd0062f7e40823e597b18cc7e ha estat modificat per últim cop el 2023-03-06T08:10:03.066529Z
+D: 43
+  |__F: fccd1d5f263591c29238d57b055dc40f66a846 ha estat modificat per últim cop el 2023-03-06T08:10:03.082029Z
+D: 44
+  |__F: 13710c89313fd2834d3dc19d4ef48025ad2a58 ha estat modificat per últim cop el 2023-03-06T08:10:34.196367Z
+D: 46
+  |__F: 793fcf09297dd6a1eb231d2162a1be9fa79fb9 ha estat modificat per últim cop el 2023-03-06T08:10:03.580941Z
+D: 49
+  |__F: 87bda12671edad1b27475d9a4b8c9f2dfab886 ha estat modificat per últim cop el 2023-03-06T08:10:03.09777Z
+D: 4e
+  |__F: 828e5ac11b74c99bf00ef03975466a76fdfb5c ha estat modificat per últim cop el 2023-03-06T08:10:34.274471Z
+D: 50
+  |__F: 4da1eb29d857d9dcb0c37bcb06b7d86127a5a1 ha estat modificat per últim cop el 2023-03-06T08:10:03.580941Z
+D: 52
+  |__F: 8ccd0c86407d8552d5b34f9a9065977f682c5b ha estat modificat per últim cop el 2023-03-06T08:10:03.019546Z
+D: 53
+  |__F: 2bfd2004f9d04a371c61aead2b59f9fc6856a6 ha estat modificat per últim cop el 2023-03-06T08:10:34.35258Z
+D: 5c
+  |__F: 061cc47daa8dcb542a9dc160b1134192ae531d ha estat modificat per últim cop el 2023-03-06T08:10:03.37801Z
+D: 5e
+  |__F: fe44e22c85d9dcd4697396e4dab45cd8713bc4 ha estat modificat per últim cop el 2023-03-06T08:10:34.211988Z
+D: 62
+  |__F: f7bd2e1b2b68d0419a3da2bb90db4569027e0b ha estat modificat per últim cop el 2023-03-06T08:10:03.159536Z
+D: 67
+  |__F: a60dc207c29908be29c9bef54e912a9985151f ha estat modificat per últim cop el 2023-03-06T08:10:34.118264Z
+D: 6b
+  |__F: a6dcdf0ab3700f4bcd051f34c497c98270d487 ha estat modificat per últim cop el 2023-03-06T08:10:34.24323Z
+D: 6c
+  |__F: 76ffc5de06e482c1c58bf671bee45b99a91e5e ha estat modificat per últim cop el 2023-03-06T08:10:03.190821Z
+D: 77
+  |__F: 47cf1dee4d331e06d0a17bb06edd96601ed959 ha estat modificat per últim cop el 2023-03-06T08:10:03.534078Z
+D: 79
+  |__F: d3eec888f66567f2e4d8b2c24de18b61b01815 ha estat modificat per últim cop el 2023-03-06T08:10:03.440391Z
+D: 7a
+  |__F: 879ddefd69d8c3c03ebcf442ebd8aaa5a36f2b ha estat modificat per últim cop el 2023-03-06T08:10:03.502829Z
+D: 7f
+  |__F: a3b887a37948af6a063d2b2688f59b86f75637 ha estat modificat per últim cop el 2023-03-06T08:10:03.362245Z
+D: 83
+  |__F: a1ee7b36adbad5a39c5d32a3225eeb4a3390a8 ha estat modificat per últim cop el 2023-03-06T08:10:03.565313Z
+D: 86
+  |__F: 7a9ad119150cae2c6234bb8f262cc55ef8ecc4 ha estat modificat per últim cop el 2023-03-06T08:10:03.237642Z
+D: 87
+  |__F: c8f073da9e42587260ba7fa5ba5ddf640173ff ha estat modificat per últim cop el 2023-03-06T08:10:03.409102Z
+D: 88
+  |__F: aad36510ca3b6cd63ac684026e6ba40f8b3c09 ha estat modificat per últim cop el 2023-03-06T08:10:03.440391Z
+D: 89
+  |__F: 79de7636e2424a53434b53566c5d5ae00ccbab ha estat modificat per últim cop el 2023-03-06T08:10:03.003925Z
+D: 8f
+  |__F: 6ead72abd5c5012dc7091daa32d162ec877983 ha estat modificat per últim cop el 2023-03-06T08:10:03.596557Z
+D: 91
+  |__F: 2392f0b6e0196a18521c9edd7690682870909d ha estat modificat per últim cop el 2023-03-06T08:10:02.926622Z
+D: 9a
+  |__F: 4cfa0abdcb35deae382b00ef7974fbf5f88119 ha estat modificat per últim cop el 2023-03-06T08:10:03.596557Z
+D: a4
+  |__F: cfe2dce11908cb8431a558620eef02c7e8745a ha estat modificat per últim cop el 2023-03-06T08:10:34.368201Z
+D: a5
+  |__F: 28ba068f07ab9ea3ef681f4b1de99a39c30b6f ha estat modificat per últim cop el 2023-03-06T08:10:03.627803Z
+D: a6
+  |__F: 7cb1635a3219c07723d333436b1eacd7b5db6f ha estat modificat per últim cop el 2023-03-06T08:10:03.518456Z
+D: aa
+  |__F: 05c0feecd75dff4259a9d3e94bdf46b58c957b ha estat modificat per últim cop el 2023-03-06T08:10:03.222055Z
+D: b2
+  |__F: 297fc2a9a71b82e7c82e76f3f2c1ae9b96753d ha estat modificat per últim cop el 2023-03-06T08:10:34.446312Z
+D: bb
+  |__F: 928519c927af301e7b99b64f4fe7230dc87fc5 ha estat modificat per últim cop el 2023-03-06T08:10:03.61218Z
+D: be
+  |__F: 8175136bc2a078be0a4a328d36b892d1a35897 ha estat modificat per últim cop el 2023-03-06T08:10:03.175298Z
+D: c0
+  |__F: 6d6655ed08531cb43b18f47fae736fc60287a7 ha estat modificat per últim cop el 2023-03-06T08:10:34.227609Z
+D: c4
+  |__F: 146e083f1f818d76f6d9f9ecba48f9f38523ee ha estat modificat per últim cop el 2023-03-06T08:10:03.487214Z
+D: c9
+  |__F: 0834f2d607afe55e6104d8aa2cdfffb713f688 ha estat modificat per últim cop el 2023-03-06T08:10:02.988304Z
+  |__F: 854e3ecbd5bdd2a08c473efc5256ae52e1855b ha estat modificat per últim cop el 2023-03-06T08:10:34.290094Z
+D: ca
+  |__F: 0ad646e4e98904e1b7e151ff3c3ce03e6375d2 ha estat modificat per últim cop el 2023-03-06T08:10:34.16513Z
+  |__F: ec301bd8816cbe567001e7a0d548eb6f7a07fb ha estat modificat per últim cop el 2023-03-06T08:10:03.424722Z
+D: d1
+  |__F: 9733e1030c447bfb0661dd11a58d7bd6bcb733 ha estat modificat per últim cop el 2023-03-06T08:10:34.102639Z
+D: d2
+  |__F: e51d9b875b8a2c790aaa89a683cf0f6b57dc75 ha estat modificat per últim cop el 2023-03-06T08:10:03.471599Z
+D: e0
+  |__F: 844bc7be0a8ca77dcee74dfc4059ee4a9d4a1d ha estat modificat per últim cop el 2023-03-06T08:10:02.941392Z
+D: e5
+  |__F: 1679ec14a81e48dac3350b2babf1567bb36013 ha estat modificat per últim cop el 2023-03-06T08:10:03.456007Z
+D: e6
+  |__F: 9de29bb2d1d6434b8b29ae775ad8c2e48c5391 ha estat modificat per últim cop el 2023-03-06T08:10:03.082029Z
+D: eb
+  |__F: 594b9420ccada1e6b304517f1fe49c67f9adea ha estat modificat per últim cop el 2023-03-06T08:10:34.258849Z
+D: f0
+  |__F: aab4f57b114a2242589df0ba704de61c69dec5 ha estat modificat per últim cop el 2023-03-06T08:10:34.461933Z
+  |__F: c5a9f266da5dae24b3ce269568a7d12a5ecb05 ha estat modificat per últim cop el 2023-03-06T08:10:03.268887Z
+D: f2
+  |__F: 377e88667b76fbefdccf627396cada1b697808 ha estat modificat per últim cop el 2023-03-06T08:10:34.149506Z
+  |__F: f44dd372ea82f9434f845fd12863f68b71257e ha estat modificat per últim cop el 2023-03-06T12:10:13.476595Z
+D: fb
+  |__F: b3cd98dae2f03e939efe803320808e86a1fc45 ha estat modificat per últim cop el 2023-03-06T08:10:34.38382Z
+D: fc
+  |__F: ce9aae5f55e2c3029f6a029d7f09c93c52133f ha estat modificat per últim cop el 2023-03-06T08:10:03.284506Z
+D: fd
+  |__F: 0fbda74e1899cba9b26ac6b0bb70aab867f937 ha estat modificat per últim cop el 2023-03-06T08:10:34.305717Z
+  |__F: ae21c5edee580421935d408f14b7cd279abb2a ha estat modificat per últim cop el 2023-03-06T08:10:03.565313Z
+D: info
+D: pack
+D: refs
+D: heads
+  |__F: main ha estat modificat per últim cop el 2023-03-06T08:11:03.110702Z
+D: remotes
+D: origin
+  |__F: main ha estat modificat per últim cop el 2023-03-06T08:11:50.109168Z
+D: tags
+D: .idea
+  |__F: .gitignore ha estat modificat per últim cop el 2023-02-20T10:43:16.594293Z
+  |__F: encodings.xml ha estat modificat per últim cop el 2023-03-02T12:54:17.497209Z
+  |__F: misc.xml ha estat modificat per últim cop el 2023-02-20T10:43:12.827817Z
+  |__F: modules.xml ha estat modificat per últim cop el 2023-02-20T10:43:12.765332Z
+  |__F: uiDesigner.xml ha estat modificat per últim cop el 2023-02-20T10:44:33.18558Z
+  |__F: vcs.xml ha estat modificat per últim cop el 2023-03-06T08:10:23.979852Z
+  |__F: workspace.xml ha estat modificat per últim cop el 2023-03-06T22:43:35.559158Z
+  |__F: countries.txt ha estat modificat per últim cop el 2023-02-16T11:44:30.85968Z
+  |__F: countriesDecrypted.txt ha estat modificat per últim cop el 2023-03-06T09:31:09.749408Z
+  |__F: countriesEncrypted.txt ha estat modificat per últim cop el 2023-03-06T09:31:09.733789Z
+  |__F: directoris.txt ha estat modificat per últim cop el 2023-03-06T22:43:37.951471Z
+  |__F: directorisDecrypted.txt ha estat modificat per últim cop el 2023-03-06T09:31:09.766497Z
+  |__F: directorisEncrypted.txt ha estat modificat per últim cop el 2023-03-06T09:31:09.749408Z
+  |__F: directorisParametritzat.txt ha estat modificat per últim cop el 2023-03-06T12:21:31.684254Z
+D: out
+D: production
+D: Sprint 1.5
+  |__F: directoris.txt ha estat modificat per últim cop el 2023-03-06T22:39:59.635895Z
+D: n1exercici1
+  |__F: Alfabetic.class ha estat modificat per últim cop el 2023-03-02T11:55:41.299878Z
+  |__F: Main.class ha estat modificat per últim cop el 2023-03-02T12:07:17.482816Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-06T22:38:26.593635Z
+D: n1exercici2
+  |__F: Main.class ha estat modificat per últim cop el 2023-02-22T10:40:11.905491Z
+  |__F: MostrarDirectoris.class ha estat modificat per últim cop el 2023-03-06T22:33:52.305847Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-06T22:38:26.624887Z
+D: n1exercici3
+  |__F: DirectorisAFitxer.class ha estat modificat per últim cop el 2023-03-06T22:33:52.186483Z
+  |__F: Main.class ha estat modificat per últim cop el 2023-03-03T10:17:53.468361Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-06T22:42:24.271568Z
+D: n1exercici4
+  |__F: ImprimirArxiuPantalla.class ha estat modificat per últim cop el 2023-02-22T08:09:02.567068Z
+  |__F: Main.class ha estat modificat per últim cop el 2023-02-21T20:20:27.66973Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-05T17:56:12.83099Z
+D: n1exercici5
+  |__F: ClasseSerialitzable.class ha estat modificat per últim cop el 2023-03-06T12:05:08.049996Z
+  |__F: Main.class ha estat modificat per últim cop el 2023-03-03T12:22:45.600954Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-05T18:01:58.636864Z
+D: n2exercici1
+  |__F: config.properties ha estat modificat per últim cop el 2023-03-05T23:37:22.305728Z
+  |__F: DirectorisAFitxerParametritzat.class ha estat modificat per últim cop el 2023-03-06T12:21:17.504815Z
+  |__F: Main.class ha estat modificat per últim cop el 2023-03-06T12:21:17.131813Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-06T12:05:02.34925Z
+D: n3exercici1
+  |__F: Encriptacio.class ha estat modificat per últim cop el 2023-03-02T11:32:33.41971Z
+  |__F: Main.class ha estat modificat per últim cop el 2023-03-02T11:41:33.064898Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-05T18:43:32.858607Z
+  |__F: serialitzat.ser ha estat modificat per últim cop el 2023-03-06T09:20:29.496312Z
+  |__F: Sprint 1.5.iml ha estat modificat per últim cop el 2023-02-20T10:43:12.702847Z
+D: src
+  |__F: directoris.txt ha estat modificat per últim cop el 2023-03-06T22:39:59.635895Z
+D: n1exercici1
+  |__F: Alfabetic.java ha estat modificat per últim cop el 2023-03-02T11:55:34.403514Z
+  |__F: Main.java ha estat modificat per últim cop el 2023-03-02T12:03:19.655068Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-06T22:38:26.593635Z
+D: n1exercici2
+  |__F: Main.java ha estat modificat per últim cop el 2023-02-22T10:40:04.417484Z
+  |__F: MostrarDirectoris.java ha estat modificat per últim cop el 2023-03-06T22:33:44.148763Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-06T22:38:26.624887Z
+D: n1exercici3
+  |__F: DirectorisAFitxer.java ha estat modificat per últim cop el 2023-03-06T22:33:44.211251Z
+  |__F: Main.java ha estat modificat per últim cop el 2023-03-03T09:37:32.07136Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-06T22:42:24.271568Z
+D: n1exercici4
+  |__F: ImprimirArxiuPantalla.java ha estat modificat per últim cop el 2023-02-21T22:45:49.155082Z
+  |__F: Main.java ha estat modificat per últim cop el 2023-02-21T20:20:22.378689Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-05T17:56:12.83099Z
+D: n1exercici5
+  |__F: ClasseSerialitzable.java ha estat modificat per últim cop el 2023-03-06T12:05:02.377174Z
+  |__F: Main.java ha estat modificat per últim cop el 2023-03-03T12:22:38.694864Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-05T18:01:58.636864Z
+D: n2exercici1
+  |__F: config.properties ha estat modificat per últim cop el 2023-03-05T23:37:22.305728Z
+  |__F: DirectorisAFitxerParametritzat.java ha estat modificat per últim cop el 2023-03-06T12:21:09.260975Z
+  |__F: Main.java ha estat modificat per últim cop el 2023-03-06T12:21:09.308848Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-06T12:05:02.34925Z
+D: n3exercici1
+  |__F: Encriptacio.java ha estat modificat per últim cop el 2023-03-02T11:32:26.196115Z
+  |__F: Main.java ha estat modificat per últim cop el 2023-03-02T11:41:26.563326Z
+  |__F: readme.txt ha estat modificat per últim cop el 2023-03-05T18:43:32.858607Z
+  |__F: Toni ha estat modificat per últim cop el 2023-03-05T23:33:06.999079Z

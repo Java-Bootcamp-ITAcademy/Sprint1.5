@@ -1,0 +1,300 @@
+D: ..\Sprint 1.5
+D: ..\Sprint 1.5\.git
+  |__F: ..\Sprint 1.5\.git\COMMIT_EDITMSG
+  |__F: ..\Sprint 1.5\.git\config
+  |__F: ..\Sprint 1.5\.git\description
+  |__F: ..\Sprint 1.5\.git\HEAD
+D: ..\Sprint 1.5\.git\hooks
+  |__F: ..\Sprint 1.5\.git\hooks\applypatch-msg.sample
+  |__F: ..\Sprint 1.5\.git\hooks\commit-msg.sample
+  |__F: ..\Sprint 1.5\.git\hooks\fsmonitor-watchman.sample
+  |__F: ..\Sprint 1.5\.git\hooks\post-update.sample
+  |__F: ..\Sprint 1.5\.git\hooks\pre-applypatch.sample
+  |__F: ..\Sprint 1.5\.git\hooks\pre-commit.sample
+  |__F: ..\Sprint 1.5\.git\hooks\pre-merge-commit.sample
+  |__F: ..\Sprint 1.5\.git\hooks\pre-push.sample
+  |__F: ..\Sprint 1.5\.git\hooks\pre-rebase.sample
+  |__F: ..\Sprint 1.5\.git\hooks\pre-receive.sample
+  |__F: ..\Sprint 1.5\.git\hooks\prepare-commit-msg.sample
+  |__F: ..\Sprint 1.5\.git\hooks\push-to-checkout.sample
+  |__F: ..\Sprint 1.5\.git\hooks\update.sample
+  |__F: ..\Sprint 1.5\.git\index
+D: ..\Sprint 1.5\.git\info
+  |__F: ..\Sprint 1.5\.git\info\exclude
+D: ..\Sprint 1.5\.git\logs
+  |__F: ..\Sprint 1.5\.git\logs\HEAD
+D: ..\Sprint 1.5\.git\logs\refs
+D: ..\Sprint 1.5\.git\logs\refs\heads
+  |__F: ..\Sprint 1.5\.git\logs\refs\heads\main
+D: ..\Sprint 1.5\.git\logs\refs\remotes
+D: ..\Sprint 1.5\.git\logs\refs\remotes\origin
+  |__F: ..\Sprint 1.5\.git\logs\refs\remotes\origin\main
+D: ..\Sprint 1.5\.git\objects
+D: ..\Sprint 1.5\.git\objects\09
+  |__F: ..\Sprint 1.5\.git\objects\09\d0bb268835a374b94c907a61d4430b512bebbd
+D: ..\Sprint 1.5\.git\objects\0a
+  |__F: ..\Sprint 1.5\.git\objects\0a\be0f197c2129184b3ab4c2a06922d34301ae61
+D: ..\Sprint 1.5\.git\objects\0e
+  |__F: ..\Sprint 1.5\.git\objects\0e\23ffdbca450077a58c3fbface7423ea719e121
+D: ..\Sprint 1.5\.git\objects\0f
+  |__F: ..\Sprint 1.5\.git\objects\0f\95aa40417f7690b62ed75a018a0bfae468f57b
+D: ..\Sprint 1.5\.git\objects\13
+  |__F: ..\Sprint 1.5\.git\objects\13\566b81b018ad684f3a35fee301741b2734c8f4
+D: ..\Sprint 1.5\.git\objects\19
+  |__F: ..\Sprint 1.5\.git\objects\19\70d37c3de4a49ff7477ab91a3eac7750c3e855
+  |__F: ..\Sprint 1.5\.git\objects\19\d1d0815d0b59cefdb5084e1cdf7fcd48de96f1
+D: ..\Sprint 1.5\.git\objects\1a
+  |__F: ..\Sprint 1.5\.git\objects\1a\340a0b1ba211a70b9a19845d2fb1ba3da37b83
+D: ..\Sprint 1.5\.git\objects\1b
+  |__F: ..\Sprint 1.5\.git\objects\1b\b2e61d0dc6dbd4e6f582d3465f8abce27044c3
+D: ..\Sprint 1.5\.git\objects\1d
+  |__F: ..\Sprint 1.5\.git\objects\1d\f131de25366411d5f937aa3e12c508388cbfe9
+D: ..\Sprint 1.5\.git\objects\1e
+  |__F: ..\Sprint 1.5\.git\objects\1e\716806ba5cf097ff6adb721bcd424f43041a2e
+D: ..\Sprint 1.5\.git\objects\20
+  |__F: ..\Sprint 1.5\.git\objects\20\12c913cb6cfc9b82fabe46c251409c15c223e7
+D: ..\Sprint 1.5\.git\objects\25
+  |__F: ..\Sprint 1.5\.git\objects\25\01dd076e159987b0281c6f91544c303799ef86
+D: ..\Sprint 1.5\.git\objects\26
+  |__F: ..\Sprint 1.5\.git\objects\26\44b480f98c81f4db7eae93b914dc541daee472
+D: ..\Sprint 1.5\.git\objects\27
+  |__F: ..\Sprint 1.5\.git\objects\27\39713431d0052d28ae43c4690b801d4c1cab0d
+D: ..\Sprint 1.5\.git\objects\2b
+  |__F: ..\Sprint 1.5\.git\objects\2b\63946d5b31084bbb7dda418ceb3d75eb686373
+  |__F: ..\Sprint 1.5\.git\objects\2b\ccf9dade4a5f5451bec7b03aa6299ee05e13f5
+D: ..\Sprint 1.5\.git\objects\2c
+  |__F: ..\Sprint 1.5\.git\objects\2c\bab08989b148dd35b435b7ec7c914425e43e2e
+D: ..\Sprint 1.5\.git\objects\30
+  |__F: ..\Sprint 1.5\.git\objects\30\4d22520edee12121f0052c5720ea8b02c7ca3f
+D: ..\Sprint 1.5\.git\objects\31
+  |__F: ..\Sprint 1.5\.git\objects\31\d0652d7a1ad369a9a90426c340ea85216530a7
+D: ..\Sprint 1.5\.git\objects\32
+  |__F: ..\Sprint 1.5\.git\objects\32\44e47d5ecbde6b504413032ecd798e814f86de
+D: ..\Sprint 1.5\.git\objects\35
+  |__F: ..\Sprint 1.5\.git\objects\35\0a06e51edabcb0028901a1b664e70555733920
+D: ..\Sprint 1.5\.git\objects\3a
+  |__F: ..\Sprint 1.5\.git\objects\3a\79b26178999a9e31040fe73d62f523f1c2050c
+D: ..\Sprint 1.5\.git\objects\3c
+  |__F: ..\Sprint 1.5\.git\objects\3c\0cf9d9eb4ab64e7ef4deb32328e63b16f68432
+  |__F: ..\Sprint 1.5\.git\objects\3c\0dac8fbb9282378b15dca7d1c86466f377a306
+D: ..\Sprint 1.5\.git\objects\3e
+  |__F: ..\Sprint 1.5\.git\objects\3e\caf1b23a86ff281cf037ecf7373ec3cd25661c
+D: ..\Sprint 1.5\.git\objects\42
+  |__F: ..\Sprint 1.5\.git\objects\42\eea4c92b15fb9cd0062f7e40823e597b18cc7e
+D: ..\Sprint 1.5\.git\objects\43
+  |__F: ..\Sprint 1.5\.git\objects\43\fccd1d5f263591c29238d57b055dc40f66a846
+D: ..\Sprint 1.5\.git\objects\44
+  |__F: ..\Sprint 1.5\.git\objects\44\13710c89313fd2834d3dc19d4ef48025ad2a58
+D: ..\Sprint 1.5\.git\objects\46
+  |__F: ..\Sprint 1.5\.git\objects\46\793fcf09297dd6a1eb231d2162a1be9fa79fb9
+D: ..\Sprint 1.5\.git\objects\49
+  |__F: ..\Sprint 1.5\.git\objects\49\87bda12671edad1b27475d9a4b8c9f2dfab886
+D: ..\Sprint 1.5\.git\objects\4e
+  |__F: ..\Sprint 1.5\.git\objects\4e\828e5ac11b74c99bf00ef03975466a76fdfb5c
+D: ..\Sprint 1.5\.git\objects\50
+  |__F: ..\Sprint 1.5\.git\objects\50\4da1eb29d857d9dcb0c37bcb06b7d86127a5a1
+D: ..\Sprint 1.5\.git\objects\52
+  |__F: ..\Sprint 1.5\.git\objects\52\8ccd0c86407d8552d5b34f9a9065977f682c5b
+D: ..\Sprint 1.5\.git\objects\53
+  |__F: ..\Sprint 1.5\.git\objects\53\2bfd2004f9d04a371c61aead2b59f9fc6856a6
+D: ..\Sprint 1.5\.git\objects\58
+  |__F: ..\Sprint 1.5\.git\objects\58\8a1c15cbe510d5788e9a35036b212fe00fe1c2
+D: ..\Sprint 1.5\.git\objects\5c
+  |__F: ..\Sprint 1.5\.git\objects\5c\061cc47daa8dcb542a9dc160b1134192ae531d
+D: ..\Sprint 1.5\.git\objects\5e
+  |__F: ..\Sprint 1.5\.git\objects\5e\fe44e22c85d9dcd4697396e4dab45cd8713bc4
+D: ..\Sprint 1.5\.git\objects\62
+  |__F: ..\Sprint 1.5\.git\objects\62\f7bd2e1b2b68d0419a3da2bb90db4569027e0b
+D: ..\Sprint 1.5\.git\objects\66
+  |__F: ..\Sprint 1.5\.git\objects\66\64b44de6e8017bc0a60376057563b0ffd6f2fb
+  |__F: ..\Sprint 1.5\.git\objects\66\94e75022737a03407728f680160e34eefd9fb5
+D: ..\Sprint 1.5\.git\objects\67
+  |__F: ..\Sprint 1.5\.git\objects\67\251e0f67d9c74bd98957d72bc212a06b669366
+  |__F: ..\Sprint 1.5\.git\objects\67\a60dc207c29908be29c9bef54e912a9985151f
+D: ..\Sprint 1.5\.git\objects\6b
+  |__F: ..\Sprint 1.5\.git\objects\6b\a6dcdf0ab3700f4bcd051f34c497c98270d487
+D: ..\Sprint 1.5\.git\objects\6c
+  |__F: ..\Sprint 1.5\.git\objects\6c\76ffc5de06e482c1c58bf671bee45b99a91e5e
+D: ..\Sprint 1.5\.git\objects\6d
+  |__F: ..\Sprint 1.5\.git\objects\6d\a5c797bbe59775a07b5e39085d2e7c73cc42af
+D: ..\Sprint 1.5\.git\objects\6e
+  |__F: ..\Sprint 1.5\.git\objects\6e\72b434e29247761fe9c786fd21a6fbc61cfc80
+D: ..\Sprint 1.5\.git\objects\77
+  |__F: ..\Sprint 1.5\.git\objects\77\47cf1dee4d331e06d0a17bb06edd96601ed959
+D: ..\Sprint 1.5\.git\objects\79
+  |__F: ..\Sprint 1.5\.git\objects\79\d3eec888f66567f2e4d8b2c24de18b61b01815
+D: ..\Sprint 1.5\.git\objects\7a
+  |__F: ..\Sprint 1.5\.git\objects\7a\879ddefd69d8c3c03ebcf442ebd8aaa5a36f2b
+D: ..\Sprint 1.5\.git\objects\7f
+  |__F: ..\Sprint 1.5\.git\objects\7f\a3b887a37948af6a063d2b2688f59b86f75637
+D: ..\Sprint 1.5\.git\objects\83
+  |__F: ..\Sprint 1.5\.git\objects\83\a1ee7b36adbad5a39c5d32a3225eeb4a3390a8
+D: ..\Sprint 1.5\.git\objects\86
+  |__F: ..\Sprint 1.5\.git\objects\86\7a9ad119150cae2c6234bb8f262cc55ef8ecc4
+D: ..\Sprint 1.5\.git\objects\87
+  |__F: ..\Sprint 1.5\.git\objects\87\c8f073da9e42587260ba7fa5ba5ddf640173ff
+D: ..\Sprint 1.5\.git\objects\88
+  |__F: ..\Sprint 1.5\.git\objects\88\aad36510ca3b6cd63ac684026e6ba40f8b3c09
+D: ..\Sprint 1.5\.git\objects\89
+  |__F: ..\Sprint 1.5\.git\objects\89\79de7636e2424a53434b53566c5d5ae00ccbab
+D: ..\Sprint 1.5\.git\objects\8f
+  |__F: ..\Sprint 1.5\.git\objects\8f\6ead72abd5c5012dc7091daa32d162ec877983
+D: ..\Sprint 1.5\.git\objects\91
+  |__F: ..\Sprint 1.5\.git\objects\91\2392f0b6e0196a18521c9edd7690682870909d
+D: ..\Sprint 1.5\.git\objects\9a
+  |__F: ..\Sprint 1.5\.git\objects\9a\4cfa0abdcb35deae382b00ef7974fbf5f88119
+  |__F: ..\Sprint 1.5\.git\objects\9a\ec0716e69c4faa7f0fe4436ab04a9f236e4c11
+D: ..\Sprint 1.5\.git\objects\9b
+  |__F: ..\Sprint 1.5\.git\objects\9b\c840ca1b6c519ef672d2d2fb1b805a2cfdcffd
+D: ..\Sprint 1.5\.git\objects\a2
+  |__F: ..\Sprint 1.5\.git\objects\a2\5dd8e9fd09f37ca5ff86c512e558f648f4b9dd
+D: ..\Sprint 1.5\.git\objects\a3
+  |__F: ..\Sprint 1.5\.git\objects\a3\df79c16eea250a71b98e553fe63e8aee84821d
+D: ..\Sprint 1.5\.git\objects\a4
+  |__F: ..\Sprint 1.5\.git\objects\a4\cfe2dce11908cb8431a558620eef02c7e8745a
+D: ..\Sprint 1.5\.git\objects\a5
+  |__F: ..\Sprint 1.5\.git\objects\a5\28ba068f07ab9ea3ef681f4b1de99a39c30b6f
+D: ..\Sprint 1.5\.git\objects\a6
+  |__F: ..\Sprint 1.5\.git\objects\a6\7cb1635a3219c07723d333436b1eacd7b5db6f
+D: ..\Sprint 1.5\.git\objects\aa
+  |__F: ..\Sprint 1.5\.git\objects\aa\05c0feecd75dff4259a9d3e94bdf46b58c957b
+D: ..\Sprint 1.5\.git\objects\ac
+  |__F: ..\Sprint 1.5\.git\objects\ac\ac5c0946350a78a4c188c25e8373cdc3c4ffee
+D: ..\Sprint 1.5\.git\objects\b2
+  |__F: ..\Sprint 1.5\.git\objects\b2\297fc2a9a71b82e7c82e76f3f2c1ae9b96753d
+D: ..\Sprint 1.5\.git\objects\b5
+  |__F: ..\Sprint 1.5\.git\objects\b5\3b22e4906361fe11a1641d0498cd3012b28aab
+D: ..\Sprint 1.5\.git\objects\b6
+  |__F: ..\Sprint 1.5\.git\objects\b6\5a66eca76a7e17830cb5f235eb04a90e424ac7
+D: ..\Sprint 1.5\.git\objects\bb
+  |__F: ..\Sprint 1.5\.git\objects\bb\928519c927af301e7b99b64f4fe7230dc87fc5
+D: ..\Sprint 1.5\.git\objects\be
+  |__F: ..\Sprint 1.5\.git\objects\be\8175136bc2a078be0a4a328d36b892d1a35897
+D: ..\Sprint 1.5\.git\objects\bf
+  |__F: ..\Sprint 1.5\.git\objects\bf\4aed8481978a63fdd10fd3e6365a9fc8bc0706
+D: ..\Sprint 1.5\.git\objects\c0
+  |__F: ..\Sprint 1.5\.git\objects\c0\6d6655ed08531cb43b18f47fae736fc60287a7
+D: ..\Sprint 1.5\.git\objects\c4
+  |__F: ..\Sprint 1.5\.git\objects\c4\146e083f1f818d76f6d9f9ecba48f9f38523ee
+D: ..\Sprint 1.5\.git\objects\c9
+  |__F: ..\Sprint 1.5\.git\objects\c9\0834f2d607afe55e6104d8aa2cdfffb713f688
+  |__F: ..\Sprint 1.5\.git\objects\c9\854e3ecbd5bdd2a08c473efc5256ae52e1855b
+D: ..\Sprint 1.5\.git\objects\ca
+  |__F: ..\Sprint 1.5\.git\objects\ca\0ad646e4e98904e1b7e151ff3c3ce03e6375d2
+  |__F: ..\Sprint 1.5\.git\objects\ca\ec301bd8816cbe567001e7a0d548eb6f7a07fb
+D: ..\Sprint 1.5\.git\objects\d1
+  |__F: ..\Sprint 1.5\.git\objects\d1\9733e1030c447bfb0661dd11a58d7bd6bcb733
+D: ..\Sprint 1.5\.git\objects\d2
+  |__F: ..\Sprint 1.5\.git\objects\d2\e51d9b875b8a2c790aaa89a683cf0f6b57dc75
+D: ..\Sprint 1.5\.git\objects\e0
+  |__F: ..\Sprint 1.5\.git\objects\e0\844bc7be0a8ca77dcee74dfc4059ee4a9d4a1d
+D: ..\Sprint 1.5\.git\objects\e5
+  |__F: ..\Sprint 1.5\.git\objects\e5\1679ec14a81e48dac3350b2babf1567bb36013
+D: ..\Sprint 1.5\.git\objects\e6
+  |__F: ..\Sprint 1.5\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+D: ..\Sprint 1.5\.git\objects\e8
+  |__F: ..\Sprint 1.5\.git\objects\e8\c0fabf739d1182b75f31a55a723b259a1fa033
+D: ..\Sprint 1.5\.git\objects\eb
+  |__F: ..\Sprint 1.5\.git\objects\eb\594b9420ccada1e6b304517f1fe49c67f9adea
+D: ..\Sprint 1.5\.git\objects\f0
+  |__F: ..\Sprint 1.5\.git\objects\f0\aab4f57b114a2242589df0ba704de61c69dec5
+  |__F: ..\Sprint 1.5\.git\objects\f0\c5a9f266da5dae24b3ce269568a7d12a5ecb05
+D: ..\Sprint 1.5\.git\objects\f2
+  |__F: ..\Sprint 1.5\.git\objects\f2\377e88667b76fbefdccf627396cada1b697808
+  |__F: ..\Sprint 1.5\.git\objects\f2\f44dd372ea82f9434f845fd12863f68b71257e
+D: ..\Sprint 1.5\.git\objects\fb
+  |__F: ..\Sprint 1.5\.git\objects\fb\b3cd98dae2f03e939efe803320808e86a1fc45
+D: ..\Sprint 1.5\.git\objects\fc
+  |__F: ..\Sprint 1.5\.git\objects\fc\ce9aae5f55e2c3029f6a029d7f09c93c52133f
+D: ..\Sprint 1.5\.git\objects\fd
+  |__F: ..\Sprint 1.5\.git\objects\fd\0fbda74e1899cba9b26ac6b0bb70aab867f937
+  |__F: ..\Sprint 1.5\.git\objects\fd\ae21c5edee580421935d408f14b7cd279abb2a
+D: ..\Sprint 1.5\.git\objects\info
+D: ..\Sprint 1.5\.git\objects\pack
+D: ..\Sprint 1.5\.git\refs
+D: ..\Sprint 1.5\.git\refs\heads
+  |__F: ..\Sprint 1.5\.git\refs\heads\main
+D: ..\Sprint 1.5\.git\refs\remotes
+D: ..\Sprint 1.5\.git\refs\remotes\origin
+  |__F: ..\Sprint 1.5\.git\refs\remotes\origin\main
+D: ..\Sprint 1.5\.git\refs\tags
+D: ..\Sprint 1.5\.idea
+  |__F: ..\Sprint 1.5\.idea\.gitignore
+  |__F: ..\Sprint 1.5\.idea\encodings.xml
+  |__F: ..\Sprint 1.5\.idea\misc.xml
+  |__F: ..\Sprint 1.5\.idea\modules.xml
+  |__F: ..\Sprint 1.5\.idea\uiDesigner.xml
+  |__F: ..\Sprint 1.5\.idea\vcs.xml
+  |__F: ..\Sprint 1.5\.idea\workspace.xml
+  |__F: ..\Sprint 1.5\countries.txt
+  |__F: ..\Sprint 1.5\countriesDecrypted.txt
+  |__F: ..\Sprint 1.5\countriesEncrypted.txt
+  |__F: ..\Sprint 1.5\directoris.txt
+  |__F: ..\Sprint 1.5\directorisDecrypted.txt
+  |__F: ..\Sprint 1.5\directorisEncrypted.txt
+  |__F: ..\Sprint 1.5\directorisParametritzat.txt
+D: ..\Sprint 1.5\out
+D: ..\Sprint 1.5\out\production
+D: ..\Sprint 1.5\out\production\Sprint 1.5
+D: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici1
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici1\Alfabetic.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici1\Main.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici1\readme.txt
+D: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici2
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici2\Main.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici2\MostrarDirectoris.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici2\readme.txt
+D: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici3
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici3\DirectorisAFitxer.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici3\Main.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici3\readme.txt
+D: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici4
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici4\ImprimirArxiuPantalla.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici4\Main.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici4\readme.txt
+D: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici5
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici5\ClasseSerialitzable.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici5\Main.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n1exercici5\readme.txt
+D: ..\Sprint 1.5\out\production\Sprint 1.5\n2exercici1
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n2exercici1\config.properties
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n2exercici1\DirectorisAFitxerParametritzat.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n2exercici1\Main.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n2exercici1\readme.txt
+D: ..\Sprint 1.5\out\production\Sprint 1.5\n3exercici1
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n3exercici1\Encriptacio.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n3exercici1\Main.class
+  |__F: ..\Sprint 1.5\out\production\Sprint 1.5\n3exercici1\readme.txt
+  |__F: ..\Sprint 1.5\serialitzat.ser
+  |__F: ..\Sprint 1.5\Sprint 1.5.iml
+D: ..\Sprint 1.5\src
+D: ..\Sprint 1.5\src\n1exercici1
+  |__F: ..\Sprint 1.5\src\n1exercici1\Alfabetic.java
+  |__F: ..\Sprint 1.5\src\n1exercici1\Main.java
+  |__F: ..\Sprint 1.5\src\n1exercici1\readme.txt
+D: ..\Sprint 1.5\src\n1exercici2
+  |__F: ..\Sprint 1.5\src\n1exercici2\Main.java
+  |__F: ..\Sprint 1.5\src\n1exercici2\MostrarDirectoris.java
+  |__F: ..\Sprint 1.5\src\n1exercici2\readme.txt
+D: ..\Sprint 1.5\src\n1exercici3
+  |__F: ..\Sprint 1.5\src\n1exercici3\DirectorisAFitxer.java
+  |__F: ..\Sprint 1.5\src\n1exercici3\Main.java
+  |__F: ..\Sprint 1.5\src\n1exercici3\readme.txt
+D: ..\Sprint 1.5\src\n1exercici4
+  |__F: ..\Sprint 1.5\src\n1exercici4\ImprimirArxiuPantalla.java
+  |__F: ..\Sprint 1.5\src\n1exercici4\Main.java
+  |__F: ..\Sprint 1.5\src\n1exercici4\readme.txt
+D: ..\Sprint 1.5\src\n1exercici5
+  |__F: ..\Sprint 1.5\src\n1exercici5\ClasseSerialitzable.java
+  |__F: ..\Sprint 1.5\src\n1exercici5\Main.java
+  |__F: ..\Sprint 1.5\src\n1exercici5\readme.txt
+D: ..\Sprint 1.5\src\n2exercici1
+  |__F: ..\Sprint 1.5\src\n2exercici1\config.properties
+  |__F: ..\Sprint 1.5\src\n2exercici1\DirectorisAFitxerParametritzat.java
+  |__F: ..\Sprint 1.5\src\n2exercici1\Main.java
+  |__F: ..\Sprint 1.5\src\n2exercici1\readme.txt
+D: ..\Sprint 1.5\src\n3exercici1
+  |__F: ..\Sprint 1.5\src\n3exercici1\Encriptacio.java
+  |__F: ..\Sprint 1.5\src\n3exercici1\Main.java
+  |__F: ..\Sprint 1.5\src\n3exercici1\readme.txt
+  |__F: ..\Sprint 1.5\Toni

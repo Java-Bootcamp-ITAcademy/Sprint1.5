@@ -11,6 +11,7 @@ import java.util.Properties;
 
 public class DirectorisAFitxerParametritzat implements FileVisitor<Path> {
     private static Properties properties;
+    private PrintWriter printWriter;
 
     public static Properties getProperties() {
         return properties;
@@ -22,26 +23,15 @@ public class DirectorisAFitxerParametritzat implements FileVisitor<Path> {
 
     @Override
     public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) throws IOException {
-        try {
-            PrintWriter writer = new PrintWriter(new OutputStreamWriter(new FileOutputStream(properties.getProperty("arxiuAEscriure"), true)));  //Declaring printWriter and appending lines to the file.
-            writer.append("D: " + dir + "\n");
-            writer.close();
-            return FileVisitResult.CONTINUE;
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
-        }
+        printWriter.append("D: " + dir + "\n");
+        return FileVisitResult.CONTINUE;
     }
 
     @Override
     public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
-        try {
-            PrintWriter writer = new PrintWriter(new OutputStreamWriter(new FileOutputStream(properties.getProperty("arxiuAEscriure"), true)));  //Declaring printWriter and appending lines to the file.
-            writer.append("  |__F: " + file + "\n");
-            writer.close();
-            return FileVisitResult.CONTINUE;
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
-        }
+        printWriter.append("  |__F: " + file + "\n");
+
+        return FileVisitResult.CONTINUE;
 
     }
 
@@ -62,6 +52,14 @@ public class DirectorisAFitxerParametritzat implements FileVisitor<Path> {
         Properties prop = new Properties();
         prop.load(propsInput);
         return prop;
+    }
+
+    public void initPrintWriter() throws FileNotFoundException {
+        this.printWriter = new PrintWriter(new OutputStreamWriter(new FileOutputStream(properties.getProperty("arxiuAEscriure"), true)));  //Declaring printWriter and appending lines to the file.
+
+    }
+    public void closePrintWriter() {
+        this.printWriter.close();
     }
 
 }
